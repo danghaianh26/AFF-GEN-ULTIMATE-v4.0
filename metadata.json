@@ -1,0 +1,8 @@
+{
+  "name": "AutoAffiliate Video Creator",
+  "description": "AI-powered web app that generates high-quality promotional videos from Shopee/TikTok product links using Gemini 3 and Veo 3.1.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
